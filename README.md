@@ -1,6 +1,8 @@
 # PROJECT 4: MARKET STRATEGY
 #### Written by: Chi Vo
 #### Date: April 08, 2025
+This is a class project from CECS 427 at California State University Long Beach, instructed by Dr. Oscar Morales Ponce.
+
 
 ### Objective
 Create bipartite graphs in the "networkx" library that follow the market-clearing algorithm, using Python.
